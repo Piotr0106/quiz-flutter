@@ -8,5 +8,21 @@ List<QuizQuestion> questions = [
   QuizQuestion(
     'What is the capital city of Poland?',
     ['Warsaw', 'Gdańsk', 'Kraków', 'Wrocław'],
+  ),
+  QuizQuestion(
+    'What is the capital city of Poland?',
+    ['Warsaw', 'Gdańsk', 'Kraków', 'Wrocław'],
+  ),
+  QuizQuestion(
+    'What is the capital city of Poland?',
+    ['Warsaw', 'Gdańsk', 'Kraków', 'Wrocław'],
+  ),
+  QuizQuestion(
+    'What is the capital city of Poland?',
+    ['Warsaw', 'Gdańsk', 'Kraków', 'Wrocław'],
+  ),
+  QuizQuestion(
+    'What is the capital city of Poland?',
+    ['Warsaw', 'Gdańsk', 'Kraków', 'Wrocław'],
   )
 ];
