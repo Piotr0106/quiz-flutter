@@ -5,7 +5,6 @@ class HomePage extends StatelessWidget {
 
   final void Function() startQuiz;
 
-  void onPressed() {}
 
   @override
   Widget build(BuildContext context) {
